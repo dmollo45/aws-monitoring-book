@@ -34,7 +34,7 @@
 
 ## About This Book
 
-This book chronicles a 24-day journey of building a production-grade AWS infrastructure monitoring and log analytics pipeline. Through hands-on implementation across 10 phases, you'll learn to create scalable, cost-effective monitoring solutions using AWS serverless technologies.
+This book chronicles a 24-day journey of building a production-grade AWS end to end  infrastructure monitoring and log analytics pipeline. Through hands-on implementation across 10 phases, you'll learn to create scalable, cost-effective monitoring solutions using AWS serverless technologies.
 
 Whether you're a cloud engineer, DevOps professional, or data engineer, this comprehensive guide provides the practical knowledge and real-world insights needed to build robust observability systems.
 
